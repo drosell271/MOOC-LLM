@@ -1,0 +1,13 @@
+Frase 1
+-Texto: The capital of Spain is Madrid
+-Tokens: 6
+-Tokenizador: GPT4o
+-Numero medio tokens por palabra: 1
+-Numero medio tokens por carácter: 0.2
+
+Frase 1
+-Texto: When I was young, I liked playing basketball with my Friends
+-Tokens: 12
+-Tokenizador: GPT4o
+-Numero medio tokens por palabra: 1.09
+-Numero medio tokens por carácter: 0.2
